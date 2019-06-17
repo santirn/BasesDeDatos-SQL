@@ -1,5 +1,5 @@
 # BasesDeDatos-SQL
-Recopilación de los conocimientos adquiridos en SQL.
+Recopilación de los conocimientos adquiridos en SQL. [Ver POC]?(https://github.com/santirn/BasesDeDatos-SQL/edit/master/ConsultasDeEjemploSQL.md)
  
 -Modelo relacional. 
 
@@ -38,3 +38,5 @@ Con estos conocimientos realizamos infinidad de prácticas sobre el SGBD ORACLE 
 - Concatenación interna (INNER JOIN).
 
 - Concatenaciones externas (LEFT/RIGHT).
+
+[Ver POC]?(https://github.com/santirn/BasesDeDatos-SQL/edit/master/ConsultasDeEjemploSQL.md)
