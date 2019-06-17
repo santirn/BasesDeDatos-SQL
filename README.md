@@ -10,7 +10,7 @@ Recopilación de los conocimientos adquiridos en SQL. [Ver POC](https://github.c
 
 Con estos conocimientos realizamos infinidad de prácticas sobre el SGBD ORACLE en las que adquirimos las siguientes competencias: 
 
--Diseñar un esquema lógico a través de una realidad concreta
+
 
 # USUARIOS:
 - CREACIÓN DE USUARIOS
