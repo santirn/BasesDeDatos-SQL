@@ -1,6 +1,7 @@
-# Ejemplo de algunas consultas SQL que hemos realizado:
+# Ejemplo de algunas consultas SQL:
 Esquema lógico de ciclismo [aquí](https://github.com/santirn/BasesDeDatos-SQL/blob/master/Ciclismo.jpg). 
 
+![EsquemalogicoCiclismo](https://github.com/santirn/BasesDeDatos-SQL/blob/master/Ciclismo.jpg "Esquema lógico de ciclismo")
 
 ###### Obtener el dorsal y el nombre de los ciclistas que han ganado alguna etapa y todos los puertos que están en ella. No se debe mostrar información sobre las etapas sin puertos de montaña. 
 
